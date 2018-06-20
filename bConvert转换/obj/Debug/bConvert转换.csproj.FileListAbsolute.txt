@@ -1,0 +1,6 @@
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\bConvert转换\bin\Debug\bConvert转换.exe.config
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\bConvert转换\bin\Debug\bConvert转换.exe
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\bConvert转换\bin\Debug\bConvert转换.pdb
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\bConvert转换\obj\Debug\bConvert转换.exe
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\bConvert转换\obj\Debug\bConvert转换.pdb
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\bConvert转换\obj\Debug\bConvert转换.csprojResolveAssemblyReference.cache
