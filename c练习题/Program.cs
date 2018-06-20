@@ -29,7 +29,7 @@ namespace c练习题
             */
 
             //第二题
-            try
+           /* try
             {
                 Console.WriteLine("请输入您想要计算的天数：");
                 int days = Convert.ToInt32(Console.ReadLine());
@@ -42,9 +42,19 @@ namespace c练习题
                 catch
                 {
                 Console.WriteLine("error");
-                }
+                }*/
+                //视频没有声音……
+            //第三题:编程实现107653秒是几天几小时几分钟几秒？
+                int sec = 107653;
+                int days = sec/(3600*24);
+                int mod = sec % (3600 * 24);//除去上面的天数，还剩多少秒
+                int hour =mod /3600;//看看剩余的秒数还有多少个3600秒
+                mod = mod % 3600;//看看生于的秒数中出去上面算的小时，还剩余多少秒
+                int min = mod/60;//看看剩余的秒数中有几个60秒，就是几分钟
+                mod = mod % 60;
+            Console.WriteLine("{0}秒是{1}天{2}小时{3}分{4}秒！",sec,days,hour,min,mod);
 
-            //第三题
+            Console.ReadKey();
 
             }
     }

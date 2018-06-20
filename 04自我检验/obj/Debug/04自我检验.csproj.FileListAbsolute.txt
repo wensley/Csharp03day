@@ -1,0 +1,6 @@
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\04自我检验\bin\Debug\04自我检验.exe.config
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\04自我检验\bin\Debug\04自我检验.exe
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\04自我检验\bin\Debug\04自我检验.pdb
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\04自我检验\obj\Debug\04自我检验.csprojResolveAssemblyReference.cache
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\04自我检验\obj\Debug\04自我检验.exe
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\04自我检验\obj\Debug\04自我检验.pdb

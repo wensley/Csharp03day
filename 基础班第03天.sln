@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bConvert转换", "bConvert�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c练习题", "c练习题\c练习题.csproj", "{DC1F1029-F3B9-456B-800B-D3E1923D4B00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04自我检验", "04自我检验\04自我检验.csproj", "{3E8E1EDE-9E47-45B4-9DA9-F43382C30EB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DC1F1029-F3B9-456B-800B-D3E1923D4B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC1F1029-F3B9-456B-800B-D3E1923D4B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC1F1029-F3B9-456B-800B-D3E1923D4B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8E1EDE-9E47-45B4-9DA9-F43382C30EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8E1EDE-9E47-45B4-9DA9-F43382C30EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8E1EDE-9E47-45B4-9DA9-F43382C30EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8E1EDE-9E47-45B4-9DA9-F43382C30EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
