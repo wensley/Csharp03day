@@ -3,3 +3,4 @@ C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\d自加�
 C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\d自加自减\bin\Debug\d自加自减.pdb
 C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\d自加自减\obj\Debug\d自加自减.exe
 C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\d自加自减\obj\Debug\d自加自减.pdb
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\d自加自减\obj\Debug\d自加自减.csprojResolveAssemblyReference.cache

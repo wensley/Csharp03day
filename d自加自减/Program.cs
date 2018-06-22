@@ -26,7 +26,7 @@ namespace d自加自减
             //bool isRight = zsAge > lsAge;
             //Console.WriteLine(isRight);
 
-            //bool练习
+            //下面是我做的练习20180621
             //int xiang = 1500, shu = 1;
             //bool isRight = xiang > shu;
             //Console.WriteLine(isRight);
