@@ -1,0 +1,6 @@
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\09if\bin\Debug\09if.exe.config
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\09if\bin\Debug\09if.exe
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\09if\bin\Debug\09if.pdb
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\09if\obj\Debug\09if.exe
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\09if\obj\Debug\09if.pdb
+C:\Users\ailao\Documents\Visual Studio 2015\Projects\基础班第03天\09if\obj\Debug\09if.csprojResolveAssemblyReference.cache

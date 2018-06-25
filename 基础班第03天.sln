@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g闰年", "g闰年\g闰年.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h与或短路", "h与或短路\h与或短路.csproj", "{59277DE7-073B-4C0F-B43F-C20BAFD52D71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09if", "09if\09if.csproj", "{6EBB560F-D993-4030-B670-A4A6E740AE57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{59277DE7-073B-4C0F-B43F-C20BAFD52D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59277DE7-073B-4C0F-B43F-C20BAFD52D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59277DE7-073B-4C0F-B43F-C20BAFD52D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBB560F-D993-4030-B670-A4A6E740AE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBB560F-D993-4030-B670-A4A6E740AE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBB560F-D993-4030-B670-A4A6E740AE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBB560F-D993-4030-B670-A4A6E740AE57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
