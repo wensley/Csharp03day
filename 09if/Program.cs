@@ -19,14 +19,14 @@ namespace _09if
             //Console.WriteLine("请输入你的分数：");
             //int zs = Convert.ToInt32(Console.ReadLine());
             //if (zs > 90)
-            //    Console.WriteLine("爸爸奖励你100元！");
+            //    Console.WriteLine("爸爸奖励你100元！");//这句话没有写在{}里
             //Console.WriteLine("程序结束");
 
             ////作业1
             //Console.WriteLine("请输入你的年龄：");
             //int age = Convert.ToInt32(Console.ReadLine());
             //if (age>=18)
-            //    Console.WriteLine("你已成年！");
+            //    Console.WriteLine("你已成年！");//这句话没有写在{}里
             //Console.WriteLine("程序结束！");
 
             //作业2-不会做
@@ -38,7 +38,7 @@ namespace _09if
             
             Console.ReadKey();
 
-                //作业3 不会做，完全懵逼了
+            //作业3 不会做，完全懵逼了
                 Console.WriteLine(a.ToString() + b);
 
 
